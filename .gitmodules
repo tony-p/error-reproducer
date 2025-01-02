@@ -1,0 +1,7 @@
+[submodule "BehaviorTree.CPP"]
+	path = BehaviorTree.CPP
+	url = https://github.com/tony-p/BehaviorTree.CPP.git
+	branch = fix/build-with-conda-env
+[submodule "BehaviorTree.ROS2"]
+	path = BehaviorTree.ROS2
+	url = https://github.com/BehaviorTree/BehaviorTree.ROS2.git
